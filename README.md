@@ -15,5 +15,5 @@ All other details are in "Project and Dataset Details" file .
 ## How to Run: 
 
 ```bash
-g++ main.cpp -o project
+g++ project.cpp -o project
 ./project
