@@ -1,10 +1,10 @@
 # DataStructure_Dictionary
 
-##Introduction:
+## Introduction:
 
 My project is about dictionary . Which contain a great number of words along with their meaning .The dictionary txt file have been provided .
  
-##Chaining Hashing :
+## Chaining Hashing :
 
 In this project I have used chaining hashing .	The whole dictionary has been loaded by chaining hashing . 
 
